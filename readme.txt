@@ -4,7 +4,7 @@ Donate link: http://isthisablog.com/
 Tags: random, posts
 Requires at least: 2.0
 Tested up to: 2.7.1
-Stable tag: 1.01
+Stable tag: 1.02
 
 This plugin will allow you to display a single post selected at random from your post database
 
