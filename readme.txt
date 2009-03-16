@@ -1,4 +1,4 @@
-=== Single Random Post 1.01 ===
+=== Single Random Post  ===
 Contributors: dcostalis
 Donate link: http://isthisablog.com/
 Tags: random, posts
