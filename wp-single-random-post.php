@@ -3,7 +3,7 @@
 Plugin Name: Single Random Post
 Plugin URI: http://isthisablog.com
 Description: This plugin will allow you to display a single post selected at random from your post database
-Version: 1.01
+Version: 1.02
 Author: Daniel Costalis
 Author URI: http://isthisablog.com
 */
@@ -23,8 +23,6 @@ Author URI: http://isthisablog.com
 				        along with this program; if not, write to the Free Software
 					    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 					    */
-					    ?>
-					    <?php
 					    function single_random_post() {
 					    global $wpdb;
 					    $query = "SELECT id, post_title, post_name FROM $wpdb->posts WHERE ((post_status='publish') AND (post_type = 'post') AND ($wpdb->posts.post_password = '')) ORDER BY RAND() LIMIT 1";
