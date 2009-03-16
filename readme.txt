@@ -16,7 +16,7 @@ There are no bells and no whistles.
 
 == Installation ==
 
-1. Upload `single-random-post.php` to the `/wp-content/plugins/` directory
+1. Upload `wp-single-random-post.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Place `<?php single_random_post(); ?>` in your templates
 
