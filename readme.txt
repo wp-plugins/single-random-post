@@ -3,8 +3,8 @@ Contributors: dcostalis
 Donate link: http://isthisablog.com/
 Tags: random, posts
 Requires at least: 2.0
-Tested up to: 2.7.1
-Stable tag: 1.02
+Tested up to: 2.8
+Stable tag: 1.03
 
 This plugin will allow you to display a single post selected at random from your post database
 
@@ -32,4 +32,4 @@ Because there are plenty of plugins that do a lot more, but none that do this li
 
 == Screenshots ==
 
-1. An example of showing a random post, with some additional fun code around it
+1. No screenshots! Sorry!
