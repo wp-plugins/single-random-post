@@ -3,7 +3,7 @@
 Plugin Name: Single Random Post
 Plugin URI: http://isthisablog.com
 Description: This plugin will allow you to display a single post selected at random from your post database
-Version: 1.02
+Version: 1.03
 Author: Daniel Costalis
 Author URI: http://isthisablog.com
 */
